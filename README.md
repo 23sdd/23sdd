@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/divine-computer.svg" width="100%" alt="23sdd: a pixel desktop with a floating winged computer, golden halo, twinkling stars and a blinking cursor." />
+<img src="./divine-computer.svg" width="100%" alt="23sdd: a pixel desktop with a floating winged computer, golden halo, twinkling stars and a blinking cursor." />
 
 <br /><br />
 
@@ -37,6 +37,6 @@ Welcome to my little corner of the internet. A place to turn curiosity into code
 
 <br /><br />
 
-<img src="./assets/save-point.svg" width="100%" alt="End of file. Start of something." />
+<img src="./save-point.svg" width="100%" alt="End of file. Start of something." />
 
 </div>
